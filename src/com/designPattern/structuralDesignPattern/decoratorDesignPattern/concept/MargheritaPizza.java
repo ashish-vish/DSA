@@ -1,4 +1,4 @@
-package com.designPattern.decoratorDesignPattern.concept;
+package com.designPattern.structuralDesignPattern.decoratorDesignPattern.concept;
 
 public class MargheritaPizza extends BasePizza{
     @Override

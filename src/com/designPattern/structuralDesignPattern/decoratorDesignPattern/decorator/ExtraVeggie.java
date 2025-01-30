@@ -1,6 +1,6 @@
-package com.designPattern.decoratorDesignPattern.decorator;
+package com.designPattern.structuralDesignPattern.decoratorDesignPattern.decorator;
 
-import com.designPattern.decoratorDesignPattern.concept.BasePizza;
+import com.designPattern.structuralDesignPattern.decoratorDesignPattern.concept.BasePizza;
 
 public class ExtraVeggie extends ToppingsDecorator{
 
